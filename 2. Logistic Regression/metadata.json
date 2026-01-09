@@ -1,0 +1,5 @@
+{
+  "name": "Logistic Regression Demo",
+  "description": "An interactive logistic regression walkthrough using a small labeled dataset.",
+  "requestFramePermissions": []
+}
