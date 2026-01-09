@@ -1,0 +1,7 @@
+{
+  "name": "Linear Regression Demo",
+  "description": "An interactive linear regression walkthrough using movie budget and revenue data.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
